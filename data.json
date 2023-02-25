@@ -1,0 +1,48 @@
+{
+  "name": "donaldtrump",
+  "avatar": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+  "links": [
+    {
+      "title": "Follow Me on Twitter",
+      "url": "http://twitter.com/realdonaldtrump",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg"
+    },
+    {
+      "title": "Follow me on Truth Social",
+      "url": "http://www.truthsocial.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Truth_Social_logo.svg/2560px-Truth_Social_logo.svg.png"
+    },
+    {
+      "title": "Vote for Equality",
+      "url": "https://secure.winred.com/save-america-joint-fundraising-committee/2024-trump-poll-011",
+      "image": "https://1000logos.net/wp-content/uploads/2017/06/Republican-Logo-1874.png"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/1024px-Wikipedia%27s_W.svg.png"
+    },
+    {
+      "title": "Trump Organization",
+      "url": "https://www.trump.com/",
+      "image": "https://yt3.googleusercontent.com/ytc/AL5GRJUpCqMJ6GntT0YUBpGuHlL9WZL0rAvh7wTqfi7WFQ=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "title": "Twitter",
+      "url": "http://twitter.com/realdonaldtrump"
+    },
+    {
+      "id": 2,
+      "title": "Facebook",
+      "url": "https://www.facebook.com/DonaldTrump/"
+    },
+    {
+      "id": 3,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/realdonaldtrump"
+    }
+  ]
+}
